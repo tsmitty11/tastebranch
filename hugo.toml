@@ -1,0 +1,8 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'tastebranch — GitHub-native art direction'
+disableKinds = ['taxonomy', 'term', 'RSS']
+[params]
+  description = 'Your product works. Make it feel like you. GitHub-native branding and art direction for vibe-coded products and technical founders.'
+  contactURL = ''
+  showShowcase = false

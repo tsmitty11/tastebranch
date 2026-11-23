@@ -1,0 +1,11 @@
+node_modules/
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+static/css/
+static/fonts/
+test-results/
+
+.vercel/
+.env*
